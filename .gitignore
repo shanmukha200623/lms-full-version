@@ -1,0 +1,17 @@
+# Node dependencies
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Build output folders
+build/
+dist/
+
+# OS / IDE files
+.DS_Store
+.vscode/
+
+# Uploads folder (optional, can exclude if files are large)
+uploads/
