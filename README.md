@@ -24,13 +24,13 @@ Theme settings ( light , dark , auto )
 
 ## team 
 sanjay frontend( HTML , CSS , JS) , Data base : MongoDB 
-shanmukha sreenivas backend node js , deploy 
+shanmukha sreenivas backend node js , deploy:vercel 
 
 
 
 
 how to run 
 
-frontend :  python -m http.server 5500
+frontend :  python -m http.server 8080
 backend : npm run dev 
-DATABASE URL .env 
+DATABASE URL in  .env  file
