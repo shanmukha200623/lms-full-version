@@ -31,6 +31,6 @@ shanmukha sreenivas backend node js , deploy
 
 how to run 
 
-frontend :  python -m http.server 8080
+frontend :  python -m http.server 5500
 backend : npm run dev 
 DATABASE URL .env 
